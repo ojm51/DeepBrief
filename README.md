@@ -321,9 +321,9 @@ alembic upgrade head
 
 ### 5. 모델 및 어댑터 준비
 
-[모델 어댑터 파일](https://drive.google.com/file/d/1UFL8xR4jjjk9wshs5M3kd8yRfyMo1_uP/view?usp=share_link)
+[모델 어댑터 파일(구글 드라이브)](https://drive.google.com/file/d/1UFL8xR4jjjk9wshs5M3kd8yRfyMo1_uP/view?usp=share_link)
 
-> 드라이브에서 어댑터 파일을 다운받아 `backend/fine_tuning/qa/README.md`와 `backend/fine_tuning/summary/README.md`를 참고해 필요한 파일 삽입
+> 드라이브에서 어댑터 파일을 다운받아 `backend/fine_tuning/qa/README.md`와 `backend/fine_tuning/summary/README.md`를 참고해 알맞은 경로에 필요한 파일 삽입
 
 ### 6. 백엔드 실행
 
